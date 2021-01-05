@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+#### My geekiest stuff on GitHub
+
+- My [📄 resume](https://github.com/qchenevier/resume) for the 2020s: written in markdown/CSS & rendered as a [web page](https://raw.githack.com/qchenevier/resume/master/resume.html) and a [pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf).
+
 
 <!--
 **qchenevier/qchenevier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
