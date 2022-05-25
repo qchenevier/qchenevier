@@ -3,7 +3,7 @@
 #### Some cool stuff I've built
 
 - [🎵 Scribbleton Live](https://github.com/qchenevier/scribbleton-live) — a digital audio workstation, fully in-browser, leveraging WebAudio, deployed statically here 👉 [scribbleton.live](https://scribbleton.live/)
-- [📝 HuMa](https://github.com/qchenevier/huma) — a blog about **Hu**mans & **Ma**chines, deployed statically here 👉 [huma.io](https://huma.io/)
+- [📝 HuMa](https://github.com/qchenevier/huma) — a blog about **Hu**mans & **Ma**chines, deployed statically here 👉 [qchenevier.github.io/huma](https://qchenevier.github.io/huma/)
 - [📄 Resume](https://github.com/qchenevier/resume) for the 2020s — written in markdown/CSS & available as a 👉 [web page](https://qchenevier.github.io/resume/) and a 👉 [pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf).
 - [🐼 Pandas Pipeline Graphviz](https://github.com/qchenevier/pandas-pipeline-graphviz) —  a python package to build a nice explanative schema of a data pipeline in pandas
 - [👨‍🏫 Cours IA](https://github.com/qchenevier/cours-IA) — a course on Artifical Intelligence for the [MBA](https://www.tbs-education.fr/formation/global-executive-mba/) of [TBS](https://www.tbs-education.fr/): impact for the CEOs, the managers and as well for the mere citizens (in french 🇫🇷) available as a 👉 [html presentation](https://qchenevier.github.io/cours-IA/cours_12h_presentiel.html)
