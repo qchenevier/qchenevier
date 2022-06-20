@@ -2,6 +2,7 @@
 
 #### Some cool stuff I've built
 
+- [🗳 France Elections ML](https://github.com/qchenevier/france-elections-ML) — deep learning to predict & understand voters behavior in France. Blog posts: 👉 [part 1 - results](https://qchenevier.github.io/huma/france-elections-ML-part1)
 - [🎵 Scribbleton Live](https://github.com/qchenevier/scribbleton-live) — a digital audio workstation, fully in-browser, leveraging WebAudio, deployed statically here 👉 [scribbleton.live](https://scribbleton.live/)
 - [📝 HuMa](https://github.com/qchenevier/huma) — a blog about **Hu**mans & **Ma**chines, deployed statically here 👉 [qchenevier.github.io/huma](https://qchenevier.github.io/huma/)
 - [📄 Resume](https://github.com/qchenevier/resume) for the 2020s — written in markdown/CSS & available as a 👉 [web page](https://qchenevier.github.io/resume/) and a 👉 [pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf).
